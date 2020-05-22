@@ -13,11 +13,11 @@ body {
 }
 
 #divMaior {
-    padding: 5% 1%;
-    height: 50%;
-    width: 18%;
+    padding: 25px 5px;
+    height: 400px;
+    width: 300px;
     background-color: #663398;
-    margin-top: 10%;
+    margin-top: 5%;
     display: flex;
     position: relative;
     flex-direction: row;
